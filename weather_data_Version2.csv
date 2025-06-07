@@ -1,0 +1,8 @@
+date,temperature_c,precipitation_mm,weather
+2025-06-01,21,0,Sunny
+2025-06-02,19,2,Rain
+2025-06-03,20,0,Sunny
+2025-06-04,22,0,Sunny
+2025-06-05,18,5,Rain
+2025-06-06,17,10,Rain
+2025-06-07,23,0,Sunny

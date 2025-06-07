@@ -1,0 +1,16 @@
+[datasources]
+my_dataset = { path = "weather_data.csv", type = "csv" }
+
+[app]
+title = "Weather Insights App"         # Custom app title
+
+[branding]
+favicon = "static/favicon.ico"         # Path to your custom favicon file
+logo = "static/logo.png"               # (Optional) Path to your logo image
+primary_color = "#3498db"              # (Optional) Primary color (blue as example)
+secondary_color = "#2ecc71"            # (Optional) Secondary color (green as example)
+background_color = "#f5f6fa"           # (Optional) App background color
+
+# Note:
+# - Place your favicon and logo images in a /static directory at the root of your project.
+# - Adjust color values to fit your branding preferences.
